@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+  font-family: "geizer";
+  src: url(./assets/fonts/Geizer.otf);
+}
+@font-face {
+  font-family: "milk";
+  src: url(./assets/fonts/MilkyNice.ttf);
+}
+@font-face {
+  font-family: "cream";
+  src: url(./assets/fonts/SuperCreamy.ttf);
+}
+.title {
+    font-family: 'geizer';
+}
